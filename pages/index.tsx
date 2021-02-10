@@ -1,3 +1,3 @@
-const Home = () => <h1>Hello, Headless!</h1>;
+const Home = () => <h1>Deploying the headless horseman! Very cool stuff.</h1>;
 
 export default Home;
